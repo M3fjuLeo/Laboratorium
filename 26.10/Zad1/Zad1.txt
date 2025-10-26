@@ -1,0 +1,22 @@
+wielkość 1GB
+przepustowość 56kb/s
+
+1 GB = 1073741824 bajty
+1 bajt = 8 bitów
+1 GB = 8589934592 bitów
+
+Dodajemy narzut protokołów (5%)
+8589934592 × 1.05 = 9019431322 bity
+
+Dodajemy retransmisje (1%)
+9019431322 × 1.01 = 9109625635 bitów
+
+Obliczamy czas
+9109625635/56 = 162672 sekudn
+
+Zamiana na godziny
+162672 sekund ÷ 3600 ≈ 45,2 godziny
+
+Narzut protokołów i retransmisje mają duży wpływ —bez nich czas byłby krótszy o 2,5h
+Teoretyczna przepustowość (56 kb/s) to nie to samo co praktyczna szybkość — faktycznie dane „płyną” wolniej.
+Pobieranie 1 GB przez 56 kb/s jest bardzo wolne.

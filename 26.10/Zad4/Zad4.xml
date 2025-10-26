@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE osoby SYSTEM "Zad4.dtd">
+<osoby>
+    <osoba id="o1">
+        <imie>Jan</imie>
+        <nazwisko>Kowalski</nazwisko>
+        <plec>mężczyzna</plec>
+        <wiek>25</wiek>
+    </osoba>
+    <osoba id="o2">
+        <imie>Anna</imie>
+        <nazwisko>Nowak</nazwisko>
+        <plec>kobieta</plec>
+        <wiek>30</wiek>
+    </osoba>
+    <osoba id="o3">
+        <imie>Piotr</imie>
+        <nazwisko>Wiśniewski</nazwisko>
+        <plec>mężczyzna</plec>
+        <wiek>22</wiek>
+    </osoba>
+</osoby>
