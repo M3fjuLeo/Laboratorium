@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osoba xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="dane_osobowe.xsd">
+
+  <imie>Mateusz</imie>
+  <nazwisko>Ropek</nazwisko>
+  <plec>Mężczyzna</plec>
+  <wiek>23</wiek>
+
+</osoba>
